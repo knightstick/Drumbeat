@@ -1,4 +1,4 @@
-# Drumbeat App
+# Drum-Beet App
 
 WORK IN PROGRESS
 
